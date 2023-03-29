@@ -1,0 +1,4 @@
+node_modules
+
+#We need to portect our private_key and private_key_id
+credentials.js
